@@ -1,1 +1,4 @@
-RAScript contributions and backups before I monkey with existing sets
+Achievement backups
+ - Backups of existing RA achievement logic from other developers before I implement revisions / fixes.
+RAScripts
+ - RAScripts for achievement sets or revisions I've undertaken.
