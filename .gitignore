@@ -1,0 +1,8 @@
+# Public repo: RAScripts and achievement backups only.
+# Everything else in this folder is ignored by default, so private work (untracked/, saves, ROMs,
+# tools) can never be committed by accident. To publish a new top-level folder, add a "!/name/" line.
+/*
+!/.gitignore
+!/README.md
+!/RAScripts/
+!/Acheivement Backups/
